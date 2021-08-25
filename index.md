@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jacob Probst's portfolio
 
 You can use the [editor on GitHub](https://github.com/jayballer13/FBGM/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
