@@ -19,13 +19,13 @@ body {
 	width: 100%;
 	height: 80px;
 	font-family: cursive;
-	color: #F2F2F2F2;
+	color: #F2F2F2;
 	
 	
 	
 }
 .nav {
-	background: #E62A2A;
+	background: #A3A660;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -33,7 +33,7 @@ body {
 	height: 60px;
 	text-align: center;
 	font-family: cursive;
-	color: #F2F2F2F2;
+	color: #F2F2F2;
 }
 .content {
 	background: #F2F2F2F2;
@@ -51,4 +51,6 @@ body {
 	height: 50px;
 	text-align: center;
 	font-family: cursive;
+	color: #F2F2F2;
+	
 }
