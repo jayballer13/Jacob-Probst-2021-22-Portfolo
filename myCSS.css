@@ -37,13 +37,23 @@ body {
 }
 .content {
 	background: #F2F2F2;
-	margin: 50px;
+	margin: 0px;
 	float: left;
 	width: 100%;
+	text-align: center;
+	font: italic small-caps bold 16px/2 cursive;
+	color: #0D0D0D;
+
+}
+.story {
+	background: #F2F2F2;
+	margin: 100px;
+	float: left;
 	text-align: left;
 	font: italic small-caps bold 16px/2 cursive;
 	color: #0D0D0D;
 }
+	
 .footer {
 	background: #8A8C51;
 	margin: 0px;
