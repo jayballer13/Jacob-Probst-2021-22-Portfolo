@@ -65,3 +65,13 @@ font: italic small-caps bold 16px/2 cursive;
 	color: #F2F2F2;
 	
 }
+
+a:link {
+     color: #FFFFFF;
+}
+a:visited {
+     color: #000000;
+}
+a:hover, a:active, a:focus { 
+     text-decoration: bold;
+}
